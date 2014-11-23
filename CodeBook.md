@@ -32,7 +32,7 @@ The data set contains measurements and computations based on those measurements 
 
 ## Data Dictionary - Tidy Data Set
 The data set consists of 180 records. These are divided across 6 activities performed by 30 subjects (30 x 6 = 180). All values reported are the mean of all the measurements taken during the period the subjects participated in the study.   
-**Activity&nbsp;&nbsp;&nbsp;6-18  **  
+**Activity&nbsp;&nbsp;&nbsp;6-18**  
 &nbsp;&nbsp;_Activity being performed by subject when measurement was taken_    
 &nbsp;&nbsp;&nbsp;&nbsp;WALKING  
 &nbsp;&nbsp;&nbsp;&nbsp;WALKING_UPSTAIRS  
@@ -42,7 +42,7 @@ The data set consists of 180 records. These are divided across 6 activities perf
 &nbsp;&nbsp;&nbsp;&nbsp;LAYING  
 
 <br/>
-**SubjectID&nbsp;&nbsp;&nbsp;1-2  **  
+**SubjectID&nbsp;&nbsp;&nbsp;1-2**  
 &nbsp;&nbsp;_ID of the subject performing the activity_    
 &nbsp;&nbsp; Values - 1 - 30
 
@@ -50,293 +50,293 @@ The data set consists of 180 records. These are divided across 6 activities perf
 **All values fractional and are in the range 0 - 1**  
 
 <br/>
-**fBodyAcc-mean()-X&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAcc-mean()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the Fast Fourier Transform signal value for the total body acceleration along the X-axis.   
 
 <br/>
-**fBodyAcc-mean()-Y&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAcc-mean()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the Fast Fourier Transform signal value for the total body acceleration along the y-axis.  
 
 <br/>
-**fBodyAcc-mean()-Z&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAcc-mean()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the Fast Fourier Transform signal value for the total body acceleartion along the z-axis.  
 
 <br/>
-**fBodyAcc-meanFreq()-X&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAcc-meanFreq()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the Weighted average of the frequency components of the fast Fourier transform signal for total body acceleration along the X-axis.  
 
 <br/>
-**fBodyAcc-meanFreq()-Y&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAcc-meanFreq()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the Weighted average of the frequency components of the fast Fourier transform signal of total body acceleration along the Y-axis.  
   
 <br/>
-**fBodyAcc-meanFreq()-Z&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAcc-meanFreq()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the Weighted average of the frequency components of the fast Fourier transform signal of total body acceleration along the Z-axis.    
 
 <br/>
-**fBodyAcc-std()-X&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAcc-std()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the fast Fourier Transform signal for total body acceleration along the X-axis.    
 
 <br/>
-**fBodyAcc-std()-Y&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAcc-std()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the fast Fourier Transform signal for total body acceleration along the Y-axis.    
 
 <br/>
-**fBodyAcc-std()-Z&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAcc-std()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the fast Fourier Transform signal for total body acceleration along the Z-axis.  
 
 <br/>
-**fBodyAccJerk-mean()-X&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAccJerk-mean()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the jerk signal calculated using the fast Fourier Transform signal for total body acceleration along the X-axis.  
 
 <br/>
-**fBodyAccJerk-mean()-Y&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAccJerk-mean()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the jerk signal calculated using the fast Fourier Transform signal for total body acceleration along the Y-axis.    
 
 <br/>
-**fBodyAccJerk-mean()-Z&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAccJerk-mean()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the jerk signal calculated using the fast Fourier Transform signal for total body acceleration along the Z-axis.    
 
 <br/>
-**fBodyAccJerk-meanFreq()-X&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAccJerk-meanFreq()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the weighted averages of jerk signal. The jerk signal is calculated from the fast Fourier Transform signal for total body acceleration along the X-axis.  
 
 <br/>
-**fBodyAccJerk-meanFreq()-Y&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAccJerk-meanFreq()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the weighted averages of jerk signal. The jerk signal is calculated from the fast Fourier Transform signal for total body acceleration along the Y-axis.  
 
 <br/>
-**fBodyAccJerk-meanFreq()-Z&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAccJerk-meanFreq()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the weighted averages of jerk signal. The jerk signal is calculated from the fast Fourier Transform signal for total body acceleration along the Z-axis.  
 
 <br/>
-**fBodyAccJerk-std()-X&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAccJerk-std()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the jerk signal along the X-axis.The jerk signal is calculated from the fast Fourier Transform signal for total body acceleration along the X-axis.  
 
 <br/>
-**fBodyAccJerk-std()-Y&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAccJerk-std()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the jerk signal along the Y-axis.The jerk signal is calculated from the fast Fourier Transform signal for total body acceleration along the Y-axis.  
 
 <br/>
-**fBodyAccJerk-std()-Z&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAccJerk-std()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the jerk signal along the Z-axis.The jerk signal is calculated from the fast Fourier Transform signal for total body acceleration along the Z-axis.  
 
 <br/>
-**fBodyAccMag-mean()&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAccMag-mean()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the magnitude of the signal calculated using the Euclidean norm. The signal is the fast Fourier transform of the total body acceleration across all three dimesions(axis).    
 
 <br/>
-**fBodyAccMag-meanFreq()&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAccMag-meanFreq()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the weighted averages of magnitude of the signal calculated using the Euclidean norm. The signal is the fast Fourier transform of the total body acceleration across all three dimesions(axis).      
 
 <br/>
-**fBodyAccMag-std()&nbsp;&nbsp;&nbsp;18  **  
+**fBodyAccMag-std()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the magnitude of the signal calculated using the Euclidean norm. The signal is the fast Fourier transform of the total body acceleration across all three dimesions(axis).      
 
 <br/>
-**fBodyBodyAccJerkMag-mean()&nbsp;&nbsp;&nbsp;18  **  
+**fBodyBodyAccJerkMag-mean()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the magnitude of the jerk signal calculated using the Euclidean norm. The jerk signal is calculated from the fast Fourier Transform signal for total body acceleration across all three dimesions(axis).    
 
 <br/>
-**fBodyBodyAccJerkMag-meanFreq()&nbsp;&nbsp;&nbsp;18  **  
+**fBodyBodyAccJerkMag-meanFreq()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the weighted averages of magnitude of the jerk signal calculated using the Euclidean norm. The jerk signal is calculated from the fast Fourier Transform signal for total body acceleration across all three dimesions(axis).      
 
 <br/>
-**fBodyBodyAccJerkMag-std()&nbsp;&nbsp;&nbsp;18  **  
+**fBodyBodyAccJerkMag-std()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the magnitude of the jerk signal calculated using the Euclidean norm. The jerk signal is calculated from the fast Fourier Transform signal for total body acceleration across all three dimesions(axis).      
 
 <br/>
-**fBodyGyroMag-mean()&nbsp;&nbsp;&nbsp;18  **  
+**fBodyGyroMag-mean()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the magnitude of the signal calculated using the Euclidean norm. The signal is the fast Fourier transform of the gyroscope signal across all three dimesions(axis).    
 
 <br/>
-**fBodyBodyGyroMag-meanFreq()&nbsp;&nbsp;&nbsp;18  **  
+**fBodyBodyGyroMag-meanFreq()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the weighted averages of magnitude of the signal calculated using the Euclidean norm. The signal is the fast Fourier transform of the gyroscope signal across all three dimesions(axis).      
 
 <br/>
-**fBodyBodyGyroMag-std()&nbsp;&nbsp;&nbsp;18  **  
+**fBodyBodyGyroMag-std()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the magnitude of the signal calculated using the Euclidean norm. The signal is the fast Fourier transform of the gyroscope signal across all three dimesions(axis).  
 
 <br/>
-**fBodyBodyGyroJerkMag-mean()&nbsp;&nbsp;&nbsp;18  **  
+**fBodyBodyGyroJerkMag-mean()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the magnitude of the jerk signal calculated using the Euclidean norm. The jerk signal is calculated from the fast Fourier Transform signal for gyroscope signal across all three dimesions(axis).    
 
 <br/>
-**fBodyBodyGyroJerkMag-meanFreq()&nbsp;&nbsp;&nbsp;18  **  
+**fBodyBodyGyroJerkMag-meanFreq()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the weighted averages of magnitude of the jerk signal calculated using the Euclidean norm. The jerk signal is calculated from the fast Fourier Transform signal for gyroscope signal across all three dimesions(axis).      
 
 <br/>
-**fBodyBodyGyroJerkMag-std()&nbsp;&nbsp;&nbsp;18  **  
+**fBodyBodyGyroJerkMag-std()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the magnitude of the jerk signal calculated using the Euclidean norm. The jerk signal is calculated from the fast Fourier Transform signal for gyroscope signal across all three dimesions(axis).
 
 <br/>
-**fBodyGyro-mean()-Y&nbsp;&nbsp;&nbsp;18  **  
+**fBodyGyro-mean()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the Fast Fourier Transform signal value for the gyroscope signal along the y-axis.  
 
 <br/>
-**fBodyGyro-mean()-Z&nbsp;&nbsp;&nbsp;18  **  
+**fBodyGyro-mean()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the Fast Fourier Transform signal value for the gyroscope signal along the z-axis.  
 
 <br/>
-**fBodyGyro-meanFreq()-X&nbsp;&nbsp;&nbsp;18  **  
+**fBodyGyro-meanFreq()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the Weighted average of the frequency components of the fast Fourier transform signal for gyroscope signal along the X-axis.  
 
 <br/>
-**fBodyGyro-meanFreq()-Y&nbsp;&nbsp;&nbsp;18  **  
+**fBodyGyro-meanFreq()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the Weighted average of the frequency components of the fast Fourier transform signal of gyroscope signal along the Y-axis.  
   
 <br/>
-**fBodyGyro-meanFreq()-Z&nbsp;&nbsp;&nbsp;18  **  
+**fBodyGyro-meanFreq()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the Weighted average of the frequency components of the fast Fourier transform signal of gyroscope signal along the Z-axis.    
 
 <br/>
-**fBodyGyro-std()-X&nbsp;&nbsp;&nbsp;18  **  
+**fBodyGyro-std()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the fast Fourier Transform signal for gyroscope signal along the X-axis.    
 
 <br/>
-**fBodyGyro-std()-Y&nbsp;&nbsp;&nbsp;18  **  
+**fBodyGyro-std()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the fast Fourier Transform signal for gyroscope signal along the Y-axis.    
 
 <br/>
-**fBodyGyro-std()-Z&nbsp;&nbsp;&nbsp;18  **  
+**fBodyGyro-std()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the fast Fourier Transform signal for gyroscope signal along the Z-axis.  
 
 <br/>
-**tbodyAcc-mean()-X&nbsp;&nbsp;&nbsp;18  **  
+**tbodyAcc-mean()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the  total body acceleration along the X-axis.   
 
 <br/>
-**tbodyAcc-mean()-Y&nbsp;&nbsp;&nbsp;18  **  
+**tbodyAcc-mean()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the  total body acceleration along the y-axis.  
 
 <br/>
-**tbodyAcc-mean()-Z&nbsp;&nbsp;&nbsp;18  **  
+**tbodyAcc-mean()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the  total body acceleartion along the z-axis. 
 
 <br/>
-**tbodyAcc-std()-X&nbsp;&nbsp;&nbsp;18  **  
+**tbodyAcc-std()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the total body acceleration along the X-axis.    
 
 <br/>
-**tbodyAcc-std()-Y&nbsp;&nbsp;&nbsp;18  **  
+**tbodyAcc-std()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the total body acceleration along the Y-axis.    
 
 <br/>
-**tbodyAcc-std()-Z&nbsp;&nbsp;&nbsp;18  **  
+**tbodyAcc-std()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the total body acceleration along the Z-axis.  
 
 <br/>
-**tbodyAccJerk-mean()-X&nbsp;&nbsp;&nbsp;18  **  
+**tbodyAccJerk-mean()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the jerk signal calculated for total body acceleration along the X-axis.  
 
 <br/>
-**tbodyAccJerk-mean()-Y&nbsp;&nbsp;&nbsp;18  **  
+**tbodyAccJerk-mean()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the jerk signal calculated for total body acceleration along the Y-axis.    
 
 <br/>
-**tbodyAccJerk-mean()-Z&nbsp;&nbsp;&nbsp;18  **  
+**tbodyAccJerk-mean()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the jerk signal calculated for total body acceleration along the Z-axis. 
 
 <br/>
-**tbodyAccJerk-std()-X&nbsp;&nbsp;&nbsp;18  **  
+**tbodyAccJerk-std()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the jerk signal along the X-axis.The jerk signal is calculated from the total body acceleration along the X-axis.  
 
 <br/>
-**tbodyAccJerk-std()-Y&nbsp;&nbsp;&nbsp;18  **  
+**tbodyAccJerk-std()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the jerk signal along the Y-axis.The jerk signal is calculated from the total body acceleration along the Y-axis.  
 
 <br/>
-**tbodyAccJerk-std()-Z&nbsp;&nbsp;&nbsp;18  **  
+**tbodyAccJerk-std()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the jerk signal along the Z-axis.The jerk signal is calculated from the total body acceleration along the Z-axis.  
 
 <br/>
-**tBodyAccJerkMag-mean()&nbsp;&nbsp;&nbsp;18  **  
+**tBodyAccJerkMag-mean()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the magnitude of the jerk signal calculated using the Euclidean norm. The jerk signal is calculated from the the total body acceleration across all three dimesions(axis).   
 
 <br/>
-**tBodyAccJerkMag-std()&nbsp;&nbsp;&nbsp;18  **  
+**tBodyAccJerkMag-std()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the magnitude of the jerk signal calculated using the Euclidean norm. The jerk signal is calculated from the  total body acceleration across all three dimesions(axis).  
 
 <br/>
-**tBodyAccMag-mean()&nbsp;&nbsp;&nbsp;18  **  
+**tBodyAccMag-mean()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the magnitude of the signal calculated using the Euclidean norm. The signal is the total body acceleration across all three dimesions(axis).    
 
 <br/>
-**tBodyAccMag-std()&nbsp;&nbsp;&nbsp;18  **  
+**tBodyAccMag-std()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the magnitude of the signal calculated using the Euclidean norm. The signal is the total body acceleration across all three dimesions(axis). 
 
 <br/>
-**tbodyGyro-mean()-X&nbsp;&nbsp;&nbsp;18  **  
+**tbodyGyro-mean()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the  gyroscope signal along the X-axis.   
 
 <br/>
-**tbodyGyro-mean()-Y&nbsp;&nbsp;&nbsp;18  **  
+**tbodyGyro-mean()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the  gyroscope signal along the y-axis.  
 
 <br/>
-**tbodyGyro-mean()-Z&nbsp;&nbsp;&nbsp;18  **  
+**tbodyGyro-mean()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the  total body acceleartion along the z-axis. 
 
 <br/>
-**tbodyGyro-std()-X&nbsp;&nbsp;&nbsp;18  **  
+**tbodyGyro-std()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the gyroscope signal along the X-axis.    
 
 <br/>
-**tbodyGyro-std()-Y&nbsp;&nbsp;&nbsp;18  **  
+**tbodyGyro-std()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the gyroscope signal along the Y-axis.    
 
 <br/>
-**tbodyGyro-std()-Z&nbsp;&nbsp;&nbsp;18  **  
+**tbodyGyro-std()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the gyroscope signal along the Z-axis.  
 
 <br/>
-**tbodyGyroJerk-mean()-X&nbsp;&nbsp;&nbsp;18  **  
+**tbodyGyroJerk-mean()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the jerk signal calculated for gyroscope signal along the X-axis.  
 
 <br/>
-**tbodyGyroJerk-mean()-Y&nbsp;&nbsp;&nbsp;18  **  
+**tbodyGyroJerk-mean()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the jerk signal calculated for gyroscope signal along the Y-axis.    
 
 <br/>
-**tbodyGyroJerk-mean()-Z&nbsp;&nbsp;&nbsp;18  **  
+**tbodyGyroJerk-mean()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the jerk signal calculated for gyroscope signal along the Z-axis.  
    
 <br/>
-**tBodyGyroMag-mean()&nbsp;&nbsp;&nbsp;18  **  
+**tBodyGyroMag-mean()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the magnitude of the signal calculated using the Euclidean norm. The signal is the gyroscope signal across all three dimesions(axis).    
 
 <br/>
-**tBodyGyroMag-std()&nbsp;&nbsp;&nbsp;18  **  
+**tBodyGyroMag-std()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the magnitude of the signal calculated using the Euclidean norm. The signal is the gyroscope signal across all three dimesions(axis). 
 
 <br/>
-**tGravityAcc-mean()-X&nbsp;&nbsp;&nbsp;18  **  
+**tGravityAcc-mean()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the gravity acceleration along the X-axis.   
 
 <br/>
-**tGravityAcc-mean()-Y&nbsp;&nbsp;&nbsp;18  **  
+**tGravityAcc-mean()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the gravity acceleration along the y-axis.  
 
 <br/>
-**tGravityAcc-mean()-Z&nbsp;&nbsp;&nbsp;18  **  
+**tGravityAcc-mean()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the gravity acceleartion along the z-axis. 
 
 <br/>
-**tGravityAcc-std()-X&nbsp;&nbsp;&nbsp;18  **  
+**tGravityAcc-std()-X&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the gravity acceleration along the X-axis.    
 
 <br/>
-**tGravityAcc-std()-Y&nbsp;&nbsp;&nbsp;18  **  
+**tGravityAcc-std()-Y&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the gravity acceleration along the Y-axis.    
 
 <br/>
-**tGravityAcc-std()-Z&nbsp;&nbsp;&nbsp;18  **  
+**tGravityAcc-std()-Z&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the gravity acceleration along the Z-axis.   
 
 <br/>
-**tGravityAccMag-mean()&nbsp;&nbsp;&nbsp;18  **  
+**tGravityAccMag-mean()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the magnitude of the signal calculated using the Euclidean norm. The signal is the gravity acceleration across all three dimesions(axis).    
 
 <br/>
-**tGravityAccMag-std()&nbsp;&nbsp;&nbsp;18  **  
+**tGravityAccMag-std()&nbsp;&nbsp;&nbsp;18**  
 &nbsp;&nbsp;Mean of the standard deviation of the magnitude of the signal calculated using the Euclidean norm. The signal is the gravity acceleration across all three dimesions(axis). 
